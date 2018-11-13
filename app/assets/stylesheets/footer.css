@@ -1,0 +1,32 @@
+.footer {
+  position: absolute;
+    bottom: 0px;  
+  color: black;
+  width: 100%;
+}
+
+
+/* Position du logo dans la nav bar 
+.logo_  {position: left; }
+
+
+/* The navbar */
+.bottom_nav {
+  background-color: #333;
+  height: 50px;
+}
+
+/* Navbar links */
+.bottom_nav a {
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  padding: 15px;
+  font-size: 18px;
+}
+
+.bottom_nav a:hover {
+  color: grey;
+}
+
+*/

@@ -1,0 +1,21 @@
+/* LE BOUTON */
+
+.btn-round {
+    border-radius: 2rem;
+
+}
+
+
+.btn-primary {
+
+font-size: 18px;
+font-family: Arial;
+background-color: #fff;
+border: 1rem solid #fff;
+box-shadow:2px 2px 8px #999;
+}
+
+.btn-round:hover {
+
+    box-shadow:2px 2px 8px black;
+}

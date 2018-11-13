@@ -1,0 +1,20 @@
+html {
+    font-family: DIN Condensed;
+    font-size: 1,5em;
+}
+.wrapper {
+  /* The image used */
+  background: url("renee-fisher-1106240-unsplash V2.jpg");
+  
+
+  /* LIMITE BASSE */
+  min-height: 1200px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  /* Needed to position the navbar */
+  position: relative;
+}

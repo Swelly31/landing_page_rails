@@ -1,0 +1,44 @@
+.navbar {
+  position: absolute;
+  padding-bottom: 0px;
+  margin: 0px;
+  max-height: 20px;
+  width: 100%;
+}
+
+
+/* Position du logo dans la nav bar */
+.logo  {position: left; }
+
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  max-height: 60px;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.topnav a:hover {
+  color: grey;
+}
+
+/* Position de l'avatar dans la nav bar */
+.navbar_avatar {
+  float: right;
+  text-align: center;
+  padding: 5px;
+  color: black;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
